@@ -1,0 +1,58 @@
+/*
+Style.css
+Author: William Ogden
+Date:Nov 23rd 2013 - Nov 25th 2013
+Purpose:First Look at CSS, designed to test and try new things as well as act as a css for weogden.com
+*/
+
+
+body {
+	/*background-color:#333333; */
+	/*text-align:center;*/
+	font-family:Arial,Helvetica,sans-serif;
+}
+	
+h1 {color:#CFCFCF;}
+h3 {
+	display: inline;
+}
+
+table {
+	background-color:#0099FF;
+	background-color:#0088CC; 
+	border: 10px solid #33AAFF; 
+	color:white; 
+	box-shadow: 5px 5px 2px #888888;
+    border-radius: 20px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+th, td
+{
+	border: 0px;
+	background-color:#0094FF; 
+	padding:15px;
+}
+
+a {
+	font-size:80%;
+}
+
+.space  {
+	background-color:#0094FF;
+	padding-bottom: 1.5em;
+}
+
+button.color {
+	background-color:rgb(151,187,205);
+}
+
+#statsView  {
+	text-align:center;
+}
+
+#help {
+	text-align:center;
+}
+
